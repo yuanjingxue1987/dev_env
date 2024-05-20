@@ -1,0 +1,6 @@
+[submodule "setup_shell/vim_setting"]
+	path = setup_shell/vim_setting
+	url = git@github.com:yuanjingxue1987/vim_setting.git
+[submodule "setup_shell/tmux_config"]
+	path = setup_shell/tmux_config
+	url = git@github.com:yuanjingxue1987/tmux_config.git
